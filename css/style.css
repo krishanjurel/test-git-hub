@@ -1,0 +1,30 @@
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+* {
+    outline: 1px solid red;
+}
+.description {
+    color:#7c8b88;
+    font-style: normal;
+    font-weight:bold;
+    border-width: 10px;
+    width:705px;
+}
+
+.image{
+    max-width:460px;
+    width:460px;
+}
+.title {
+    color:#33bebe;
+    font-weight:bolder;
+    text-align: center;
+}
+.app{
+    display:flex;
+    max-width:1165px;
+}
